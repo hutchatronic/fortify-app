@@ -9,9 +9,9 @@
     <dialog id="generatorDialog" class="dialog dialog-wide">
       <div class="dialog-body">
         <h2>${t?`Add income or a bill`:`Edit ${O(e.label||`entry`)}`}</h2>
-        ${t?`<p class="field-note">Bills you are committed to, not day-to-day spending —
-                 groceries, fuel and the like belong in the living-expenses estimate at the
-                 foot of each cycle.</p>`:``}
+        ${t?`<p class="field-note">Usually just the bills you are committed to. Groceries,
+                 fuel and the like are easier as one figure in the living-expenses estimate at
+                 the foot of each cycle — though you can enter them here if you would rather.</p>`:``}
 
         <label class="field">
           <span>What is it</span>
