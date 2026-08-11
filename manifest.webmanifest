@@ -1,7 +1,7 @@
 {
   "name": "Fortify — payday runway",
   "short_name": "Fortify",
-  "description": "See whether your money lasts until the next payday.",
+  "description": "Where does my money need to go? A forward-looking budget built around your pay cycle.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
